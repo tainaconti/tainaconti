@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @tainaconti
--🧐 I’m interested in technology, programming languages, social networks, books, software tests and chocolate.
+- 🧐 I’m interested in technology, programming languages, social networks, books, software tests and chocolate.
 - 🎓 bachelor's degree in law and postgraduate degree in Criminal Procedure and Criminal Procedure.
+- 📌 Student Test Analyst.
+- 💡 Java, JavaScript, HTML, CSS. 
 
 
 <!---
