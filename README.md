@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tainaconti
 - 🧐 I’m interested in technology, programming languages, social networks, books, software tests and chocolate.
-- 🎓 bachelor's degree in law and postgraduate degree in Criminal Procedure and Criminal Procedure.
+- 🎓 bachelor's degree in Law. 
 - 📌 Student QA Test Analyst.
 - 📌 Front-end Development Student.
 
