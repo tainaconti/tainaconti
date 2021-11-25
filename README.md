@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @tainaconti
 - 🧐 I’m interested in technology, programming languages, social networks, books, software tests and chocolate.
 - 🎓 bachelor's degree in Law. 
-- 📌 QA Test Analyst Student.
-- 📌 Front-end Development Student.
-
+- 📌 QA Analyst.
 - 💡 Java, JavaScript, HTML, CSS. 
 
 
