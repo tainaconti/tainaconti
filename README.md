@@ -2,7 +2,6 @@
 - 🧐 I’m interested in technology, programming languages, social networks, books, software tests and chocolate.
 - 🎓 bachelor's degree in Law. 
 - 📌 QA Analyst.
-- 💡 Java, JavaScript, HTML, CSS. 
 
 
 <!---
